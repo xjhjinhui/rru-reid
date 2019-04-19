@@ -14,3 +14,6 @@ The new code library will includes image-based re-id and video-based re-id. The 
 
 * Enough GPU: We use 4 1080ti.
 * Enough trainign epoches: you can see the differences by testing from 100 epoches to 900 epoches for iLIDS and PRID-2011.
+
+时空相互促进的视频行人重识别
+https://zhuanlan.zhihu.com/p/54180814
